@@ -1,7 +1,7 @@
 # LawnMower
 
 LownMower - group project of 2 members
-          - created using object-oriented programming concepts. 
+          - created using object-oriented programming concepts and Arduino. 
 
 This lawn mower is controlled using a mobile application. 
 You can choose the movement direction by pressing some arrow buttons: go forward, go backward, turn left, turn right. 
